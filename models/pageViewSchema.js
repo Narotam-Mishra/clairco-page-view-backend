@@ -1,3 +1,5 @@
+// Page View Data model
+
 const mongoose = require("mongoose");
 
 const pageViewSchema = new mongoose.Schema({
